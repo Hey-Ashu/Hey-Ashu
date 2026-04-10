@@ -26,7 +26,7 @@ public:
     vector<string> languages   = { "C", "C++" };
     vector<string> currentGoal = { "Build real-world projects",
                                    "Strengthen my GitHub portfolio",
-                                   "Achieve English fluency by 2026" };
+ };
     bool  openToOpportunities  = true;
 };
 ```
@@ -59,10 +59,6 @@ public:
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### 📡 ECE Core Areas
-`Circuit Analysis` • `Superposition Theorem` • `KVL / KCL` • `Mesh & Nodal Analysis` • `Digital Electronics`
-
----
 
 ## 🚀 Projects
 
@@ -77,8 +73,8 @@ public:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hey-Ashu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+    
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hey-Ashu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Ashu&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -93,7 +89,6 @@ public:
 - 📖 Deepening my understanding of **Circuit Analysis & ECE fundamentals**
 - 💻 Learning **web development** to enhance my portfolio
 - 🏆 Improving my **competitive programming** skills on CodeChef
-- 🗣️ Achieving **professional English fluency** for the global tech industry
 
 ---
 
@@ -103,7 +98,7 @@ When I'm not studying or building projects, you'll find me:
 
 - 🎮 Gaming — *Assassin's Creed, Far Cry, Ghost of Tsushima, GTA*
 - 📸 Exploring **photography**
-- 🎬 Watching tech videos & Hindi movies/podcasts
+- 🎬 Watching tech videos 
 - 🌍 Dreaming big from **Bihar, India** 🇮🇳
 
 ---
